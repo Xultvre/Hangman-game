@@ -90,7 +90,7 @@ def hangman():
             break
         else:
             print("Please use alphabets only for your name.")
-    print(f"Your word is a language and it has {len(word)} letters.u")
+    print(f"Your word is a language and it has {len(word)} letters.")
     
         # Game loop
     while attempts > 0:
